@@ -1,6 +1,8 @@
 ---
 title: 🪴 Testing
 ---
+I am just testing that this actually works, it seems to replace the file on the GitHub but not actually change it on the site. Strange!
+
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
@@ -26,4 +28,3 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
-Is this here?
