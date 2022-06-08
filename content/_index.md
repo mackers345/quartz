@@ -1,8 +1,7 @@
 ---
 title: 🪴 Testing
 ---
-I am just testing that this actually works, it seems to replace the file on the GitHub but not actually change it on the site. Strange!
-
+[[Engineering MOC]]
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
