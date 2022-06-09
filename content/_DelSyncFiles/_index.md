@@ -12,6 +12,7 @@ I first started the practice of better note-taking when I became interested in t
 This website contains a number of different pages, including methodologies, definitions, examples and reflections on civil engineering practice, some book summaries and other materials. 
 To navigate around the site, simply click on something that looks interesting or use the search tool at the top to find something specific. 
 Certain bigger topics will have a [[Map of Content (MOC)]], which acts as a homepage of sorts to help direct you to useful information.
+
 Get started with the [[Engineering MOC]].
 
 
