@@ -1,8 +1,7 @@
 ---
-title: "Map of Content (MOC)"
+title: "{{title}}"
 tags: #definition
 ---
-
 
 
 
