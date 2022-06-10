@@ -5,7 +5,7 @@ tags: #homepage
 
 Hi! My name is Dan Mackley and I am a civil engineer, working in the construction industry. This digital garden is a way for me to record and share information for future civil engineers, and act as a way to document my learning!
 
-![](Pasted%20image%2020220610152226.png)
+![](attachments/Pasted%20image%2020220610152226.png)
 
 ## Get Started
 ### How it started
@@ -16,8 +16,8 @@ This website contains a number of different pages, including methodologies, defi
 To navigate around the site, simply click on something that looks interesting or use the search tool at the top to find something specific. 
 Certain bigger topics will have a [Map of Content (MOC)](notes/Map%20of%20Content%20(MOC).md) which acts as a homepage of sorts to help direct you to useful information. You can use #tags to search for certain page types.
 
-👉 Get started with the [Civil Engineering MOC](notes/Civil%20Engineering%20MOC.md)
-💡 See my other interests [[Areas MOC]]
+ - 👉 Get started with the [Civil Engineering MOC](notes/Civil%20Engineering%20MOC.md)
+ - 💡 See my other interests [[Areas MOC]]
 
 
 Navigation: [Civil Engineering MOC](notes/Civil%20Engineering%20MOC.md)
