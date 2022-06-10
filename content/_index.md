@@ -19,8 +19,8 @@ Get started with the [[Civil Engineering MOC]].
 
 
 $$ S=\int_{x}\left\{\frac{1}{2}\sum_{a}\partial^{\mu}\chi_{a}\partial_{\mu}\chi_{a}+V(\rho)\right\}, $$
-
-$$ R/A^{\prime}=\,c^{\vee}\,N_{c}\,B_{c}\,s_{c}\,i_{c}+q^{\prime}\,N_{\mathrm{q}}\,b_{\mathrm{q}}\,s_{\mathrm{q}}\,i_{\mathrm{q}}+0,5\,\,\gamma\,B^{\dagger}N_{7}\,b_{7}\,s_{_{7}}\,i_{7} $$
-
-$$ \frac{R^{\prime}}{A^{\prime}}=\left(\pi+2\right)\,c_{u}\,b_{c}\,s_{c}\,i_{c}+q $$
+Testing putting lines in between equations to break them up.
+$$R/A^{\prime}=\,c^{\vee}\,N_{c}\,B_{c}\,s_{c}\,i_{c}+q^{\prime}\,N_{\mathrm{q}}\,b_{\mathrm{q}}\,s_{\mathrm{q}}\,i_{\mathrm{q}}+0,5\,\,\gamma\,B^{\dagger}N_{7}\,b_{7}\,s_{_{7}}\,i_{7}$$
+Is there some sort of issue which stops them being shown properly?
+$$\frac{R^{\prime}}{A^{\prime}}=\left(\pi+2\right)\,c_{u}\,b_{c}\,s_{c}\,i_{c}+q$$
 Navigation: [[Civil Engineering MOC]]
