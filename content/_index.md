@@ -3,9 +3,9 @@ title: 🏗 🌳 The Engineering Garden
 tags: #homepage
 ---
 
-Hi! My name is Dan Mackley and I am a civil engineer, working in the construction industry. This digital garden is a way for me to record and share information for future civil engineers, and act as a way to document my learning! Please dive in and enjoy 🤙
+Hi! My name is Dan Mackley and I am a civil engineer, working in the construction industry. This digital garden is a way for me to record and share information for future civil engineers, and act as a way to document my learning!
 
-![](attachments/Pasted%20image%2020220610152226.png)
+![](attachments/image/_index-1655218700129.jpeg)
 
 ## Get Started
 ### How it started
