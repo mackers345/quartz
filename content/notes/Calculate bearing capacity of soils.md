@@ -1,9 +1,11 @@
 ---
-title: "Obsidian"
+title: "Calculate bearing capacity of soils"
 tags: 
-- software
+- geotechnical
+- geotechnics
+- methodology
 ---
-# Obsidian
+# Calculate bearing capacity of soils
 
 
 

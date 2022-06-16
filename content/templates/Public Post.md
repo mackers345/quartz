@@ -1,7 +1,9 @@
 ---
 title: "{{title}}"
-tags: #definition
+tags: 
+- 
 ---
+# {{title}}
 
 
 
@@ -15,5 +17,4 @@ tags: #definition
 
 
 
-
-Navigation: [Homepage]([_index](_index.md)), [Civil Engineering MOC](notes/Civil%20Engineering%20MOC.md)
+Navigation: [Homepage](_index.md), [Civil Engineering MOC](notes/Civil%20Engineering%20MOC/Civil%20Engineering%20MOC.md), [Areas MOC](Areas%20MOC)
