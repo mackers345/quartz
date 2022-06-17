@@ -11,5 +11,3 @@ The Target Cost contract type differs from the Priced Contracts in that the risk
 **[[Option D: Bill of Quantities]]** - As above, works activities are defined on a quantified material basis as per Option B, but with the Target Cost in place.
 
 
-
-Navigation: [Homepage](_index.md), [Civil Engineering MOC](notes/Civil%20Engineering%20MOC/Civil%20Engineering%20MOC.md), [Areas MOC](Areas%20MOC)

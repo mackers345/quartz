@@ -1,7 +1,8 @@
 ---
 title: "Commercial MOC"
 tags: 
-- 
+- commercial
+- map-of-content
 ---
 # Commercial MOC
 Civil engineering and the decisions made within it are all dictated by the commercial arrangements between the involved parties. The type of contract in place can often influence the approach taken by a [[Contractor]] or [[Sub-Contractor]] due to the allocation of [risk](notes/Risk).
@@ -15,8 +16,3 @@ Civil engineering and the decisions made within it are all dictated by the comme
 
 
 
-
-
-
-
-Navigation: [Homepage](_index.md), [Civil Engineering MOC](notes/Civil%20Engineering%20MOC/Civil%20Engineering%20MOC.md), [Areas MOC](Areas%20MOC)

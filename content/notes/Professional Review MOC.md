@@ -10,13 +10,13 @@ The [[notes/Professional Review MOC]] is the final stage of becoming a [[Charter
 
 ### Pre-Application
 - [ ] IPD signed off
-	- [ ] [[notes/Civil Engineering MOC/Professional Review MOC/1. Understanding and Practical Application of Engineering]]
-	- [ ] [[notes/Civil Engineering MOC/Professional Review MOC/2. Management and Leadership]]
-	- [ ] [[notes/Civil Engineering MOC/Professional Review MOC/3. Commercial Ability]]
-	- [ ] [[notes/Civil Engineering MOC/Professional Review MOC/4. Health Safety and Welfare]]
-	- [ ] [[notes/Civil Engineering MOC/Professional Review MOC/5. Sustainable Development]]
-	- [ ] [[notes/Civil Engineering MOC/Professional Review MOC/6. Interpersonal Skills and Communication]]
-	- [ ] [[notes/Civil Engineering MOC/Professional Review MOC/7. Professional Commitment]]
+	- [ ] [1. Understanding and Practical Application of Engineering](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/1.%20Understanding%20and%20Practical%20Application%20of%20Engineering.md)
+	- [ ] [2. Management and Leadership](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/2.%20Management%20and%20Leadership.md)
+	- [ ] [3. Commercial Ability](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/3.%20Commercial%20Ability.md)
+	- [ ] [4. Health Safety and Welfare](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/4.%20Health%20Safety%20and%20Welfare.md)
+	- [ ] [5. Sustainable Development](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/5.%20Sustainable%20Development.md)
+	- [ ] [6. Interpersonal Skills and Communication](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/6.%20Interpersonal%20Skills%20and%20Communication.md)
+	- [ ] [7. Professional Commitment](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/7.%20Professional%20Commitment.md)
 - [ ] [Sponsors statement of support completed](https://www.ice.org.uk/download-centre/sponsor-s-statement-of-support/) and [uploaded](https://reviews.ice.org.uk/upload/UploadApplication)
 
 ---
@@ -36,5 +36,3 @@ The [[notes/Professional Review MOC]] is the final stage of becoming a [[Charter
 - [ ] [[Communication Task]] test
 
 
-
-Navigation: [Homepage](_index.md), [Civil Engineering MOC](notes/Civil%20Engineering%20MOC/Civil%20Engineering%20MOC.md), [Areas MOC](Areas%20MOC)
