@@ -8,15 +8,14 @@ tags:
 # Four Thousand Weeks
 ## [[Oliver Burkeman]]
 ## 2021
-URL: [Goodreads](https://www.goodreads.com/search?qid=&q=9780374159122)
-##### Status: #Finished
-###### Genres: [[Philosophy]], [[Time-Management]], [[Self-Improvement]]
+### URL: [Goodreads](https://www.goodreads.com/search?qid=&q=9780374159122)
+### Status: #Finished
+### Genres: [[Philosophy]], [[Time-Management]], [[Self-Improvement]]
 ###### #content/book 
 
 ![image|100](https://images-na.ssl-images-amazon.com/images/I/81yI262BelL.jpg)
 
 # Mental Model
----
 MM:: Most productivity books imply that with enough optimisation, that you can fit everything into your life that you want to. This book states that for a happy life this just isn't practical and suggests that finding ways to cut out obligations and make un-optimal decisions sometimes frees up time and makes us happier.
 
 Notes from [[Ali Abdaal]]'s summary video.  

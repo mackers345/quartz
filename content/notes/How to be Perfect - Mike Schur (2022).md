@@ -1,3 +1,9 @@
+---
+title: "How to be Perfect - Mike Schur (2022)"
+tags: 
+- philosophy
+- book
+---
 
 # How to be Perfect
 ## [[Mike Schur]]
@@ -7,8 +13,8 @@
 [Goodreads](https://www.goodreads.com/search?qid=&q=9781529421347)
 ###### Genres [[Ethics]], [[Morals]], [[Kindness]]
 Status:: #Finished
+##### Rating:: 4
 # Mental Model
----
 MM:: A whistle stop tour of the main philosophical thinkers and theorists and how they work in practice. Easy to understand and gives the fundamentals. The main areas of [[Philosophy]] are: [[Deontology]], which boils down to everyone should follow a clear set of rules which define whether an action is good or bad. [[Moral Theory]], and subsequent [[Utilitarianism]]  from [Immanuel Kant](notes/Immanuel%20Kant.md) denotes that the best thing to do is the thing that creates the most tangible benefit, in terms of quantity. In the trolley problem, this would be that the 5 people should be saved as this has the greatest intrinsic output. The difference between [[Moral Theory]] and [[Utilitarianism]] is that the latter considers the output to be happiness, rather than moral worth. Expand the research and understanding of [[Virtue Ethics]] and the other definitions in your spare time. 
 
 The big takeaway are essentially two quotes, which Schur instills into his own children in a touching send-off to the book. 

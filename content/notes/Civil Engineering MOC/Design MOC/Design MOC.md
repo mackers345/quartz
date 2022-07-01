@@ -3,8 +3,6 @@ title: "Design MOC"
 tags: 
 - map-of-content
 ---
-
-![CAD Design](content/notes/images/Design%20MOC-1655366980630.png)
 # Design MOC
 I started completing civil engineering design work as part of a [[Temporary Works]] design team. I am slowly gathering new methods and ways of solving problems, which I will share here for future reference. Below are a set of methods in different areas.
 

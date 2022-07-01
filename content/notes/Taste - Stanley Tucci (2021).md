@@ -1,13 +1,15 @@
 ---
 title: "Taste - Stanley Tucci (2021)"
 tags: 
-- 
+- book
+- food
 ---
 # 📘 Taste
 ## [[Stanley Tucci]]
 ## 2021
 URL: [Goodreads](https://www.goodreads.com/search?qid=&q=9781982168018)
 ##### Status:: #Summary
+##### Rating:: 3.5
 ###### Genres: [[Food]], [[Family]], [[Italy]]
 ###### #content/book 
 

@@ -3,7 +3,6 @@ title: "Civil Engineering MOC"
 tags: 
 - map-of-content
 ---
-![Bridge](content/notes/images/luca-onniboni-bUpwY7EdrlQ-unsplash.jpg)
 # Civil Engineering
 
 >"Civil engineers design, create and connect up the world around us. They help make our villages, towns and cities work for the people that live there." - *[Institution of Civil Engineers](notes/Institution%20of%20Civil%20Engineers.md)*
