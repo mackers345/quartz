@@ -6,7 +6,7 @@ tags:
 # Areas
 I have many different interests, from music to hot-air ballooning! This page is a directory of some of the topics which may interest civil engineers, or those who are interested in technology and productivity.
 
- - 📖 [[Book Summaries]]
+ - 📖 [Book Summaries](notes/Areas%20MOC/Book%20Summaries/Book%20Summaries.md)
  - ✅ [[Productivity]]
  - 🧠 [Personal Knowledge Management](notes/Personal%20Knowledge%20Management.md)
  - 🎵 [[Music]]

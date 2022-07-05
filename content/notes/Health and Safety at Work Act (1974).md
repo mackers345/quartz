@@ -4,7 +4,7 @@ tags:
 - 
 ---
 # Health and Safety at Work Act (1974)
-The [Health and Safety at Work Act (1974)](notes/Health%20and%20Safety%20at%20Work%20Act%20(1974).md) is a primary piece of legislation covering occupational health and safety in Great Britain. The act is a form of umbrella which oversees multiple other pieces of legislation within it.
+The [Health and Safety at Work Act (1974)](notes/Health%20and%20Safety%20at%20Work%20Act%20(1974).md) is a primary piece of legislation covering occupational [health and safety](notes/Health%20and%20Safety.md) in Great Britain. The act is a form of umbrella which oversees multiple other pieces of legislation within it.
 
 Some other acts and pieces of legislation are:
 
