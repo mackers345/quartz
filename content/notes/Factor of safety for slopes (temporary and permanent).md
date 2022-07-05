@@ -8,8 +8,7 @@ tags:
 
 In [N. A. Trenter](notes/N.%20A.%20Trenter.md)'s book 'Earthworks - A Guide (2001)', the following factors of safety have been derived. This has come from a combination of [[BS 6031 2009]] and scientific research.
 
-![Table 13.3](/content/attachments/wind.png)
-
+![SlopeFOS](/content/attachements/SlopeFOS.png)
 
 
 
