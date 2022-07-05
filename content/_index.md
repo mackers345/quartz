@@ -3,13 +3,15 @@ title: 🔨 🌳 The Civil Engineering Garden
 tags: 
 - homepage
 ---
+
+
 Hi! My name is Dan Mackley and I am a civil engineer, working in the construction industry. This digital garden is a way for me to record and share information for future civil engineers, and act as a way to document my learning.
 
- - See my [[Digital Garden Philosophy]]
+ - See my [Digital Garden Philosophy](notes/Digital%20Garden%20Philosophy.md)
 
 ## Get Started
 ### How it started
-I first started the practice of better note-taking when I became interested in the [[Second Brain]] movement, brought to my attention by [[Ali Abdaal]] and [[Tiago Forte]]. I wanted a way to record and link my experience and knowledge as I started working towards my [Professional Review MOC](notes/Professional%20Review%20MOC.md). Over time this has grown to become a vital part of my [[Personal Knowledge Management]] system, and now I am wanting to expand this so others can use it too. I will treat this as a [digital garden](https://jzhao.xyz/posts/digital-gardening/), tending and growing notes as I gain more knowledge.
+I first started the practice of better note-taking when I became interested in the [[Second Brain]] movement, brought to my attention by [[Ali Abdaal]] and [[Tiago Forte]]. I wanted a way to record and link my experience and knowledge as I started working towards my [Professional Review MOC](notes/Professional%20Review%20MOC.md). Over time this has grown to become a vital part of my [Personal Knowledge Management](notes/Personal%20Knowledge%20Management.md) system, and now I am wanting to expand this so others can use it too. I will treat this as a [digital garden](https://jzhao.xyz/posts/digital-gardening/), tending and growing notes as I gain more knowledge.
 
 ### How it works
 This website contains a number of different pages, including methodologies, definitions, examples and reflections on civil engineering practice, some book summaries and other materials. 
