@@ -4,7 +4,6 @@ tags:
 - homepage
 ---
 
-
 Hi! My name is Dan Mackley and I am a civil engineer, working in the construction industry. This digital garden is a way for me to record and share information for future civil engineers, and act as a way to document my learning.
 
  - See my [Digital Garden Philosophy](notes/Digital%20Garden%20Philosophy.md)

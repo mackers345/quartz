@@ -8,9 +8,9 @@ tags:
 *The following information is a summary of the [government guidance](https://www.hse.gov.uk/construction/cdm/2015/index.htm) on the CDM regulations.*
 
 # Commercial client
-The distinction between a [commercial client](notes/Commercial%20client.md) and a [domestic client](notes/Domestic%20client.md) is that the following duties apply **in full** to a commercial client, whereas some duties may be passed down the chain in a domestic case.
+> A commercial client has construction carried out as part of their business. This can be an individual, partnership or company.
 
-> A [Commercial client](notes/Commercial%20client.md) is any individual or organisation that carries out a construction project as part of a business.
+The distinction between a [commercial client](notes/Commercial%20client.md) and a [domestic client](notes/Domestic%20client.md) is that the following duties apply **in full** to a commercial client, whereas some duties may be passed down the chain in a domestic case.
 
 Commercial clients are critical in managing [health and safety](notes/Health%20and%20Safety.md) on site, including the management of health and safety risks.
 

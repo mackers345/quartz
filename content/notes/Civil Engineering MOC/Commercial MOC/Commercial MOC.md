@@ -1,5 +1,5 @@
 ---
-title: "Commercial MOC"
+title: "💵 Commercial MOC"
 tags: 
 - commercial
 - map-of-content
