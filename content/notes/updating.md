@@ -18,7 +18,7 @@ make update-force
 
 Or, manually checkout the changes yourself.
 
-> [!warning] Warning!
+> ⚠️ **WARNING** ⚠️
 >
 > If you customized the files in `data/`, or anything inside `layouts/`, your customization may be overwritten!
 > Make sure you have a copy of these changes if you don't want to lose them.

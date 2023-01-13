@@ -31,9 +31,6 @@ enableCodeBlockTitle: true
 # whether to render copy buttons for code blocks
 enableCodeBlockCopy: true 
 
-# whether to render callouts
-enableCallouts: true
-
 # whether to try to process Latex
 enableLatex: true
 
@@ -52,16 +49,10 @@ enableContextualBacklinks: true
 # whether to show a section of recent notes on the home page
 enableRecentNotes: false
 
-# whether to display an 'edit' button next to the last edited field
+# whether to display and 'edit' button next to the last edited field
 # that links to github
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-
-# whether to use Operand to power semantic search
-# IMPORTANT: replace this API key with your own if you plan on using
-# Operand search!
-enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 
 # page description used for SEO
 description:
@@ -81,6 +72,7 @@ links:
 ```
 
 ### Code Block Titles
+
 To add code block titles with Quartz:
 
 1. Ensure that code block titles are enabled in Quartz's configuration:
@@ -142,6 +134,7 @@ attribute, are relative to the `static/` directory.
 
 ### Graph View
 To customize the Interactive Graph view, you can poke around `data/graphConfig.yaml`.
+
 
 ```yaml {title="data/graphConfig.yaml"}
 # if true, a Global Graph will be shown on home page with full width, no backlink.
