@@ -1,22 +1,26 @@
-name: Dan Mackley
+name: Jacky Zhao
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
+enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false
+enableGitHubEdit: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Explore information, methodologies and examples around civil engineering.
+  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
+  Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "The Civil Engineering Garden"
+  "🪴 Quartz 3.2"
 links:
-  - link_name: Civil Engineering MOC
-    link: https://mackers345.github.io/quartz/notes/Civil-Engineering-MOC/Civil-Engineering-MOC/
   - link_name: Twitter
-    link: https://twitter.com/danmackley_
+    link: https://twitter.com/_jzhao
+  - link_name: Github
+    link: https://github.com/jackyzha0
