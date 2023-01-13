@@ -1,7 +1,7 @@
 ---
 title: "W Clauses"
 tags: 
-- 
+- commercial
 ---
 # W Clauses
 

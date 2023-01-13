@@ -22,6 +22,3 @@ To get navigate to the previous page, use the "Backlinks" section at the bottom 
 
  - 👉 Get started with the 🔧 [Civil Engineering MOC](notes/Civil%20Engineering%20MOC/Civil%20Engineering%20MOC.md)
  - 💡 See my other interests 📖 [Areas MOC](notes/Areas%20MOC.md)
-
-
-
