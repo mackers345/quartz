@@ -1,8 +1,8 @@
 ---
 title: "Professional Review"
 tags: 
-- ice
-- continuing-professional-development
+- ICE
+- Continuing Professional Development
 - cpd
 ---
 # Professional Review
@@ -35,7 +35,7 @@ The Professional Review is the final stage of becoming a [[Chartered Civil Engin
 - [ ] Pre-review presentation preparation
 - [ ] [[Communication Task]] test
 
-### Post-Review
 ---
+### Post-Review
 [[Resitting your Professional Review]]
 
