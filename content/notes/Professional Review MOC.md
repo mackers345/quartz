@@ -3,7 +3,7 @@ title: "Professional Review"
 tags: 
 - ICE
 - Continuing Professional Development
-- cpd
+- CPD
 ---
 # Professional Review
 The Professional Review is the final stage of becoming a [[Chartered Civil Engineer (CEng)]]. As per the [ICE guidance report](https://www.ice.org.uk/download-centre/professional-review-guidance/), the following stages need to be completed prior to sitting the professional review. Note that the below attributes are for the updated 7 attributes, whereas I sat the review under 9 attributes.
