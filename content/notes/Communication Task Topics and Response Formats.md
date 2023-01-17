@@ -9,8 +9,8 @@ As taken from the [ICE guidance](https://myice.ice.org.uk/getattachment/364ff1ee
 
 ## Topics
 *Climate*
- - [Decarbonisation](notes/Decarbonisation and climate impacts.md)
- - [Climate impacts](notes/Decarbonisation and climate impacts.md)
+ - [Decarbonisation](notes/Decarbonisation.md)
+ - [Climate impacts](notes/Climate%20impacts.md)
 *Infrastructure*
  - [Infrastructure](notes/Infrastructure.md)
  - [Transport and connectivity](notes/Infrastructure.md)
