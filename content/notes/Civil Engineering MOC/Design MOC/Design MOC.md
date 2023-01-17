@@ -13,6 +13,7 @@ I started completing civil engineering design work as part of a [[Temporary Work
  - [Wallap](notes/Wallap.md)
  - [Calculating vertical settlement in relation to wall deflection](notes/Calculating%20vertical%20settlement%20in%20relation%20to%20wall%20deflection.md)
  - [Difference in failure slip surface between granular and cohesive soils](notes/Difference%20in%20failure%20slip%20surface%20between%20granular%20and%20cohesive%20soils.md)
+
 ## Steel
 
 ## Concrete

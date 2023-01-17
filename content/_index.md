@@ -1,10 +1,10 @@
 ---
 title: 🔨 🌳 The Civil Engineering Garden
 tags: 
-- homepage
+- Homepage
 ---
-![banner](attachments/Pasted%20image%2020220721150448.png)
 
+![Banner](attachments/Pasted%20image%2020230117100222.png)
 Hi! My name is Dan Mackley and I am a civil engineer, working in the construction industry. This digital garden is a way for me to record and share information for future civil engineers, and act as a way to document my learning.
 
  - See my [Digital Garden Philosophy](notes/Digital%20Garden%20Philosophy.md)
@@ -22,3 +22,6 @@ To get navigate to the previous page, use the "Backlinks" section at the bottom 
 
  - 👉 Get started with the 🔧 [Civil Engineering MOC](notes/Civil%20Engineering%20MOC/Civil%20Engineering%20MOC.md)
  - 💡 See my other interests 📖 [Areas MOC](notes/Areas%20MOC.md)
+
+*Note that the information on this database may be incorrect, incomplete or out-of-date. Please double check and use this as a guide, not a reference!*
+

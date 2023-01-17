@@ -1,8 +1,8 @@
 ---
 title: "Digital Garden Philosophy"
 tags: 
-- setup
-- philosophy
+- Setup
+- Philosophy
 ---
 # Digital Garden Philosophy
 ![](attachments/Pasted%20image%2020220721152309.png)

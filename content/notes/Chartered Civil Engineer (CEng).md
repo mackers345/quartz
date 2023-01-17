@@ -15,7 +15,7 @@ As per the [ICE website](https://www.ice.org.uk/careers-learning/professional-qu
 
 >This means that the educational requirements are demanding.
 
-
+To become a Chartered Civil Engineer, you must first sit your [Professional Review](notes/Professional%20Review%20MOC.md) with the [Institution of Civil Engineers](notes/Institution%20of%20Civil%20Engineers.md).
 
 
 
