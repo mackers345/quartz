@@ -10,6 +10,7 @@ The majority of regulations around site work are dictated by a set of legislatio
 
  - 👷 [Health and Safety at Work Act (1974)](notes/Health%20and%20Safety%20at%20Work%20Act%20(1974).md)
  - 📑 [Construction Design and Management Regulations (CDM) (2015)](notes/Construction%20Design%20and%20Management%20Regulations%20(CDM)%20(2015).md)
+ - 🟢 [ISO 9001 2015 - Quality Management (2015)](notes/ISO%209001%202015.md)
 
 There are different methodologies and techniques which can be adopted to solve engineering problems. To delve into some of these disciplines, use the links below:
 
