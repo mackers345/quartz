@@ -6,7 +6,14 @@ tags:
 - CPD
 ---
 # Professional Review
-The Professional Review is the final stage of becoming a [[Chartered Civil Engineer (CEng)]]. As per the [ICE guidance report](https://www.ice.org.uk/download-centre/professional-review-guidance/), the following stages need to be completed prior to sitting the professional review. Note that the below attributes are for the updated 7 attributes, whereas I sat the review under 9 attributes.
+The Professional Review is the final stage of becoming a [Chartered Engineer (CEng)](notes/Chartered%20Engineer%20(CEng).md). As per the [ICE guidance report](https://www.ice.org.uk/download-centre/professional-review-guidance/), the following stages need to be completed prior to sitting the professional review. Note that the below attributes are for the updated 7 attributes, whereas I sat the review under 9 attributes. It is important to know how The [Engineering Council (EC)](notes/Engineering%20Council%20(EC).md) contributes and is involved in the professional review system.
+
+As individuals, and engineers, we must be continuously completing a process of self-reflection (similar to that presented in [ISO 9001 2015](notes/ISO%209001%202015.md)'s [Plan-Do-Check-Act Cycle (PDCA)](notes/Plan-Do-Check-Act%20Cycle%20(PDCA).md):
+
+1) assess yourself against the end-product
+2) identify any deficiencies
+3) seek experience or off-the-job training
+4) rectify any shortcomings
 
 ### Pre-Application
 - [ ] IPD signed off

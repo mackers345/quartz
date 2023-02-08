@@ -20,7 +20,7 @@ The [[NEC3]] contract, with which I have had the most experience, is broken down
  - [[X Clauses]] - ways to implement the recovery and provision of money
  - [[Z Clauses]] - deviations and adjustments to the standard form of contract
 
-
+#commercial 
 
 
 

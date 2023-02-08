@@ -30,7 +30,7 @@ Below are the next areas to be filled out in the garden.
 
 - [x] [ISO 9001 2015](notes/ISO%209001%202015.md) write-up and summary
 	- [ ] Additional filling out of Galliford Try [Quality Management System](notes/Quality%20Management%20System.md) in relation to the standard
-- [ ] [1. Understanding and Practical Application of Engineering](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/1.%20Understanding%20and%20Practical%20Application%20of%20Engineering.md) summary as per Successful Professional Review book
+- [x] [1. Understanding and Practical Application of Engineering](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/1.%20Understanding%20and%20Practical%20Application%20of%20Engineering.md) summary as per Successful Professional Review book
 - [ ] [2. Management and Leadership](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/2.%20Management%20and%20Leadership.md)
 - [ ] [3. Commercial Ability](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/3.%20Commercial%20Ability.md)
 - [ ] [4. Health Safety and Welfare](notes/Civil%20Engineering%20MOC/Professional%20Review%20MOC/4.%20Health%20Safety%20and%20Welfare.md)
@@ -46,3 +46,4 @@ Below are the next areas to be filled out in the garden.
 	- [ ] Bored Piles
 	- [ ] Vehicle Restraint Barriers
 	- [ ] Sheet Piles
+- [ ] Commercial Key Terms and Glossary Updates

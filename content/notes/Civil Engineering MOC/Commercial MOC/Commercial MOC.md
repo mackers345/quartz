@@ -9,8 +9,9 @@ Civil engineering and the decisions made within it are all dictated by the comme
 
  - What is a 📝[Contract](notes/Civil%20Engineering%20MOC/Commercial%20MOC/Contract.md)?
  - What is the difference between a [Priced Contract](notes/Civil%20Engineering%20MOC/Commercial%20MOC/Priced%20Contract.md) and a [Target Cost](notes/Target%20Cost.md) contract?
+ - How do stakeholders [get paid](notes/Getting%20Paid.md)?
 
-
+#commercial 
 
 
 

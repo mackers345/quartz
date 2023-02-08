@@ -16,5 +16,4 @@ A compensation event is a reassessment of cost or the allocated time to complete
 
 
 
-
-Navigation: [Homepage](_index.md), [Civil Engineering MOC](notes/Civil%20Engineering%20MOC/Civil%20Engineering%20MOC.md), [Areas MOC](Areas%20MOC)
+#commercial 

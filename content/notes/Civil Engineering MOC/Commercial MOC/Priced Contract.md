@@ -18,3 +18,5 @@ Without certain measures, a Contractor could start work and remeasure heavily in
 
 There is a distinct difference between Option A and B in that in Option A, payment is only issued when an activity is "fully completed". In other contracts, there can be the issue of payment under certain circumstances for "partial" or "substantial" completion, however this is not the case under [[NEC3]]. 
 
+#contract
+
